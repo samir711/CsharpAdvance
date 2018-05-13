@@ -1,1 +1,6 @@
 C:\VSProjects\CsharpAdvance\CsharpAdvance\bin\Debug\CsharpAdvance.exe.config
+C:\VSProjects\CsharpAdvance\CsharpAdvance\obj\Debug\CsharpAdvance.csprojResolveAssemblyReference.cache
+C:\VSProjects\CsharpAdvance\CsharpAdvance\bin\Debug\CsharpAdvance.exe
+C:\VSProjects\CsharpAdvance\CsharpAdvance\bin\Debug\CsharpAdvance.pdb
+C:\VSProjects\CsharpAdvance\CsharpAdvance\obj\Debug\CsharpAdvance.exe
+C:\VSProjects\CsharpAdvance\CsharpAdvance\obj\Debug\CsharpAdvance.pdb
