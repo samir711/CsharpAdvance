@@ -5,8 +5,10 @@ using System.Text;
 
 namespace CsharpAdvance
 {
-    public class Book : Product
+   public class Product
     {
-        public string Isbn { get; set; }
+        public string Title { get; set; }
+        public float Price { get; set; }
+
     }
 }
